@@ -20,16 +20,6 @@ A passionate Full Stack Developer, learning and exploring the world of coding, w
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
 
-### **Frontend:**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-
-### **Backend & Tools:**  
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
-
----
-
 ## 📊 GitHub Stats  
 
 <table>  
@@ -48,17 +38,6 @@ A passionate Full Stack Developer, learning and exploring the world of coding, w
 _"Code is like humor. When you have to explain it, it’s bad."_  
 
 ---
-
-## 🛠️ Projects & Contributions  
-**🔗 Featured Projects:**  
-1. **Decentralized Identity Verification for Gamers**  
-   > Leveraging blockchain for secure and trustworthy gaming environments.  
-
-2. **PehchanKaun**  
-   > Smart, cost-effective Machine Learning & IoT solutions for organizations.  
-
----
-
 ## 🌐 Connect with Me  
 - GitHub: [Guptsonu22](https://github.com/Guptsonu22)  
 - LinkedIn: [Sonu Gupta](https://linkedin.com/in/sonu-gupta-443803231)  
