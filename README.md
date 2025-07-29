@@ -52,18 +52,6 @@ A passionate **Full Stack Developer** who loves building useful tech, solving DS
 
 ---
 
-## 🔥 Real-Time GitHub Activity
-
-![Real-time Activity](./68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d417279616e2d6368617564687279267468656d653d72656163742d6461726b2662675f636f6c.svg)
-
----
-
-## 🐍 GitHub Contribution Snake
-
-![GitHub Snake](https://raw.githubusercontent.com/Guptsonu22/Guptsonu22/main/github-contribution-grid-snake-dark.svg)
-
-
----
 
 ## ✍️ Dev Quote
 
