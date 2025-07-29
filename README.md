@@ -60,7 +60,8 @@ A passionate **Full Stack Developer** who loves building useful tech, solving DS
 
 ## 🐍 GitHub Contribution Snake
 
-![GitHub Snake]https://raw.githubusercontent.com/Guptsonu22/Guptsonu22/main/github-contribution-grid-snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Guptsonu22/Guptsonu22/main/github-contribution-grid-snake-dark.svg)
+
 
 ---
 
