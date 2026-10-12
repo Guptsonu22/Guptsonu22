@@ -53,77 +53,12 @@ I'm a **B.Tech IT graduate** and **Full Stack Developer Intern** based in Noida,
 
 ## ⭐ Featured Projects
 
-### 1️⃣ LivNest — Hyperlocal Living Ecosystem Platform
-> *Rental discovery + roommate compatibility + daily-living services in one trust-first marketplace.* (working name, replace with your final product name)
-
-A complete **multi-sided marketplace** that goes beyond a "room finder". Users discover PGs, flats, shared rooms and individual beds nearby, check **lifestyle compatibility** with existing occupants, and then get **post-move-in support** (maid and cloud-kitchen services) in the same app.
-
-**👥 Roles:** Tenant · Owner / Property Lister · Maid Provider · Cloud Kitchen Provider · Admin / Moderator
-
-**✨ Key Features**
-- 🔍 **Rental discovery:** map and list views, filters for budget, property type, gender preference, furnishing, sharing/private, amenities, move-in date, distance, food/maid included, verified owner
-- 🏠 **Rich listing pages:** rent, deposit, maintenance, house rules, nearby metro/market/office/college, owner profile, response time, vacancy freshness
-- 🤝 **Occupant compatibility (USP):** lifestyle tags such as student/professional, veg/non-veg, smoking, language, cleanliness and sleep cycle for shared-living fit
-- 🛡️ **Trust & safety:** verified owner and verified-stay badges, listing moderation, report fake listing, exact-address privacy until contact approval, women-only filters
-- 📅 **Contact & visit flow:** call, chat, request exact location, schedule visit, with request tracking (pending / accepted / completed / rejected)
-- 🛏️ **Vacancy & inventory management:** total beds, vacant beds, available-from date, occupied/paused status, last-updated timestamp
-- 🧹 **Maid services module:** cleaning, utensils, cooking, baby care, monthly packages, area coverage, staff verification, reviews
-- 🍱 **Cloud kitchen module:** one-time orders and monthly tiffin subscriptions with pause controls, veg/non-veg/Jain tags
-- ⭐ **Structured reviews:** category ratings (cleanliness, safety, food quality, punctuality, value for money) with owner/provider replies
-- 🔔 **Notifications & in-app chat** to keep conversions on-platform
-- 🧑‍💼 **Admin panel:** approvals, moderation, fraud handling, complaints, analytics, featured-listing controls
-- 💰 **Monetization:** featured listings, owner subscriptions, lead fees, service commissions, verified-badge fee
-
-**🧱 Core Entities:** Users · Profiles · Properties · Rooms/Beds · Amenities · Occupants · Reviews · Visits · Chats · Maid Providers · Kitchens · Orders/Subscriptions · Reports · Notifications · Admin Logs
-
-**🛠️ Stack:** `React` `Node.js` `Express` `MongoDB` `JWT` `RBAC` `Maps API`
-**📌 Status:** 🚧 In progress
-
----
-
-### 2️⃣ LinkVault — Multi-Tenant Knowledge & Resource Management Platform
-> *A secure, scalable SaaS platform with workspace isolation and runtime-defined data models.*
-
-- 🏢 Architected a **multi-tenant SaaS** with workspace isolation, granular **RBAC**, custom permissions and middleware-driven tenant context
-- 🧬 Designed an **EAV (Entity-Attribute-Value) schema and template engine** enabling runtime-defined fields, polymorphic metadata, immutable versioning, point-in-time snapshots, audit trails and backup/restore **without schema migrations**
-- 🔐 Production-grade API security: **dual-token JWT**, refresh-token rotation, **Zod** validation, **Helmet**, rate limiting
-- 🔎 **MongoDB aggregation pipelines** powering advanced search and filtering
-
-**🛠️ Stack:** `Node.js` `Express` `TypeScript` `MongoDB` `JWT` `Zod` `Helmet`
-**🔗 Repo:** [github.com/Guptsonu22/LinkVault](https://github.com/Guptsonu22/LinkVault)
-
----
-
-### 3️⃣ SwasthyaSetu — Rural Healthcare Ecosystem
-> *"Healthcare shouldn't depend on your PIN code."* A connected healthcare platform for rural India linking patients, ASHA workers, doctors, labs, pharmacies and hospitals.
-
-- 👥 **Multi-role ecosystem:** Patient · Family/Caregiver · ASHA Worker · Doctor · Lab · Pharmacy · Hospital · Admin/NGO/Govt
-- 📱 **Modules:** patient management, **offline-first ASHA app**, teleconsultation, digital health records (EHR), diagnostics integration, lab and pharmacy integration, referral network, maternal and child health, chronic disease management, emergency support, multi-language (voice + text)
-- 🤖 **Human-in-the-loop AI:** conversational symptom intake, risk/triage support, medical OCR (reports → structured data), regional-language translation. *AI assists, doctors decide.*
-- 🏗️ **Architecture:** client apps (PWA / mobile / web) → NestJS microservice-style backend (Auth, EHR, Consultation, Notification, Sync, AI) → PostgreSQL + Redis + object storage
-- 🔒 **Security & compliance:** RBAC, consent management, encryption, audit logs, multi-tenant design, ABDM-ready
-- 🗺️ **Roadmap:** MVP → rural readiness (offline, multi-language) → healthcare network → AI & analytics → scale and interoperability
-
-**🛠️ Stack:** `NestJS` `TypeScript` `React` `React Native` `PostgreSQL` `Redis` `Python / FastAPI` `Docker`
-**🔗 Repo:** [github.com/Guptsonu22/SwasthyaSetu](https://github.com/Guptsonu22/SwasthyaSetu)
-
----
-
-### 4️⃣ SafeHer Delhi — Women's Safety Risk Mapping Platform
-> *Data-driven insights for safer streets and informed decisions.*
-
-- 🗺️ **Interactive risk map:** heatmap and layer views (street lighting, police stations, metro, hospitals, transit hubs, ward boundaries)
-- 📊 **Area insights:** per-locality vulnerability score with factor breakdown, historical trends, and locality comparison
-- 🧭 **Route comparison:** safer vs shortest route options with nearby assistance points
-- 🧮 **Transparent, explainable scoring:** `R = 0.35·Lighting + 0.25·Transit + 0.20·Emergency Access + 0.20·Crime Baseline` (experimental index, not a validated predictor of personal safety)
-- 🔄 **Data pipeline:** acquisition → cleaning and validation → geospatial processing → risk indicators → GeoJSON output, with versioning and monitoring
-- 📚 **Public data sources:** NCRB, OpenStreetMap, Delhi Metro, Govt. Open Data, official police/hospital directories
-- 🌐 **Inclusive by design:** English + Hindi, accessibility-first UI, PWA/offline support, no personal location tracking by default
-- 🧑‍💼 **Community reports** and admin moderation
-
-**🛠️ Stack:** `React` `Vite` `TypeScript` `Tailwind` `Node.js` `Express` `MongoDB (GeoJSON)` `Leaflet` `Turf.js` `Recharts`
-**🚀 Deployment:** Vercel (frontend) · Render (backend) · MongoDB Atlas
-**🔗 Repo:** [github.com/Guptsonu22/SafeHer-Delhi](https://github.com/Guptsonu22/SafeHer-Delhi)
+| Project | What it does | Tech Stack |
+|---|---|---|
+| 🏠 **[LivNest](https://github.com/Guptsonu22/LivNest)** | Hyperlocal living platform: find PG/flat/bed, check roommate compatibility, and book maid and cloud-kitchen services, with verified owners and an admin panel | `React` `Node.js` `MongoDB` `JWT` `RBAC` |
+| 🔐 **[LinkVault](https://github.com/Guptsonu22/LinkVault)** | Multi-tenant SaaS for knowledge and resource management with workspace isolation, custom RBAC and runtime-defined fields (EAV) | `Node.js` `TypeScript` `MongoDB` `Zod` `JWT` |
+| 🩺 **[SwasthyaSetu](https://github.com/Guptsonu22/SwasthyaSetu)** | Rural healthcare ecosystem connecting patients, ASHA workers, doctors, labs and pharmacies, with an offline-first app and human-in-the-loop AI | `NestJS` `React` `PostgreSQL` `Redis` `FastAPI` |
+| 🛡️ **[SafeHer Delhi](https://github.com/Guptsonu22/SafeHer-Delhi)** | Women's safety risk-mapping platform with an interactive heatmap, area insights and safer route comparison | `React` `Vite` `Node.js` `MongoDB` `Leaflet` |
 
 ---
 
