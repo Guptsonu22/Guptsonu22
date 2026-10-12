@@ -70,7 +70,6 @@ DSA/CORE  [#######---]  Java | C++ | OOP | DBMS | OS | CN
 ### 🏠 [LivNest](https://github.com/Guptsonu22/LivNest)
 `MISSION 01`<br/>
 Hyperlocal living platform: find PG/flat/bed, match roommates, book maid and kitchen services.<br/>
-<sub>React · Node · MongoDB · RBAC</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -78,7 +77,6 @@ Hyperlocal living platform: find PG/flat/bed, match roommates, book maid and kit
 ### 🔐 [LinkVault](https://github.com/Guptsonu22/LinkVault)
 `MISSION 02`<br/>
 Multi-tenant SaaS with workspace isolation, custom RBAC and runtime-defined fields (EAV).<br/>
-<sub>Node · TypeScript · MongoDB · Zod</sub>
 
 </td>
 </tr>
@@ -88,7 +86,6 @@ Multi-tenant SaaS with workspace isolation, custom RBAC and runtime-defined fiel
 ### 🩺 [SwasthyaSetu](https://github.com/Guptsonu22/SwasthyaSetu)
 `MISSION 03`<br/>
 Rural healthcare ecosystem: ASHA workers, doctors, labs and pharmacies, with human-in-the-loop AI.<br/>
-<sub>NestJS · React · PostgreSQL · Redis</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -96,7 +93,6 @@ Rural healthcare ecosystem: ASHA workers, doctors, labs and pharmacies, with hum
 ### 🛡️ [SafeHer Delhi](https://github.com/Guptsonu22/SafeHer-Delhi)
 `MISSION 04`<br/>
 Women's safety risk-mapping platform with heatmaps, area insights and safer route comparison.<br/>
-<sub>React · Vite · MongoDB · Leaflet</sub>
 
 </td>
 </tr>
