@@ -149,9 +149,9 @@ $ contact --list
 
 email      sonugupta411093@gmail.com
 github     github.com/Guptsonu22
-linkedin   linkedin.com/in/YOUR-LINKEDIN-ID
-portfolio  YOUR-PORTFOLIO-URL
-leetcode   leetcode.com/YOUR-LEETCODE-ID
+linkedin   https://www.linkedin.com/in/sonukmar/
+portfolio  https://guptasonu.vercel.app/
+leetcode   https://leetcode.com/u/sonugupta411093/
 status     open to full-time roles, internships & collaborations
 ```
 
